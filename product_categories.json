@@ -1,0 +1,204 @@
+{
+    "Electronics": {
+        "Mobile Phones": [
+            "Smartphones",
+            "Feature Phones",
+            "Refurbished Phones"
+        ],
+        "Computers & Accessories": [
+            "Laptops",
+            "Desktops",
+            "Monitors",
+            "Storage",
+            "Printers & Scanners"
+        ],
+        "TVs & Home Theater": [
+            "Televisions",
+            "Projectors",
+            "Sound Bars"
+        ],
+        "Cameras & Photography": [
+            "Digital Cameras",
+            "Camcorders",
+            "Lenses",
+            "Drones"
+        ],
+        "Wearable Technology": [
+            "Smartwatches",
+            "Fitness Trackers",
+            "Smart Glasses"
+        ]
+    },
+    "Fashion": {
+        "Women's Clothing": [
+            "Dresses",
+            "Tops",
+            "Bottoms",
+            "Outerwear"
+        ],
+        "Men's Clothing": [
+            "Shirts",
+            "Pants",
+            "Suits",
+            "Outerwear"
+        ],
+        "Footwear": [
+            "Men's Shoes",
+            "Women's Shoes",
+            "Kids' Shoes"
+        ],
+        "Accessories": [
+            "Bags",
+            "Jewelry",
+            "Watches",
+            "Sunglasses"
+        ]
+    },
+    "Home & Kitchen": {
+        "Kitchen & Dining": [
+            "Cookware",
+            "Tableware",
+            "Kitchen Gadgets"
+        ],
+        "Furniture": [
+            "Living Room",
+            "Bedroom",
+            "Office"
+        ],
+        "Bedding & Bath": [
+            "Sheets & Pillowcases",
+            "Towels",
+            "Bathroom Accessories"
+        ],
+        "Home Decor": [
+            "Rugs",
+            "Curtains",
+            "Decorative Accessories"
+        ]
+    },
+    "Beauty & Health": {
+        "Makeup": [
+            "Face",
+            "Eyes",
+            "Lips",
+            "Nails"
+        ],
+        "Skincare": [
+            "Moisturizers",
+            "Cleansers",
+            "Treatments"
+        ],
+        "Personal Care": [
+            "Hair Care",
+            "Oral Care",
+            "Shaving & Grooming"
+        ],
+        "Health & Wellness": [
+            "Supplements",
+            "Fitness Equipment",
+            "Weight Management"
+        ]
+    },
+    "Sports & Outdoors": {
+        "Exercise & Fitness": [
+            "Cardio Equipment",
+            "Strength Training",
+            "Yoga"
+        ],
+        "Outdoor Recreation": [
+            "Camping & Hiking",
+            "Cycling",
+            "Fishing"
+        ],
+        "Team Sports": [
+            "Soccer",
+            "Basketball",
+            "Baseball & Softball"
+        ],
+        "Leisure Sports & Game Room": [
+            "Billiards & Pool",
+            "Table Tennis",
+            "Darts & Dartboards"
+        ]
+    },
+    "Toys & Games": {
+        "Toys": [
+            "Action Figures",
+            "Dolls",
+            "Educational Toys",
+            "Outdoor Play"
+        ],
+        "Games": [
+            "Board Games",
+            "Card Games",
+            "Puzzles"
+        ],
+        "Hobbies": [
+            "Model Building",
+            "RC Vehicles & Drones",
+            "Collectibles"
+        ],
+        "Video Games": [
+            "Consoles",
+            "Games",
+            "Accessories"
+        ]
+    },
+    "Books & Stationery": {
+        "Books": [
+            "Fiction",
+            "Non-Fiction",
+            "Children's Books",
+            "Textbooks"
+        ],
+        "Stationery": [
+            "Writing Supplies",
+            "Notebooks & Journals",
+            "Organizers & Planners"
+        ],
+        "Art Supplies": [
+            "Drawing",
+            "Painting",
+            "Craft Supplies"
+        ]
+    },
+    "Groceries & Gourmet Food": {
+        "Beverages": [
+            "Coffee & Tea",
+            "Soda & Soft Drinks",
+            "Juices"
+        ],
+        "Snacks": [
+            "Chips & Pretzels",
+            "Candy & Chocolate",
+            "Cookies & Biscuits"
+        ],
+        "Cooking Essentials": [
+            "Oils & Vinegars",
+            "Spices & Seasonings",
+            "Sauces & Marinades"
+        ],
+        "Health Foods": [
+            "Organic Foods",
+            "Gluten-Free",
+            "Vegan Foods"
+        ]
+    },
+    "Automotive & Industrial": {
+        "Automotive Parts & Accessories": [
+            "Car Electronics",
+            "Exterior Accessories",
+            "Interior Accessories"
+        ],
+        "Tools & Equipment": [
+            "Hand Tools",
+            "Power Tools",
+            "Measuring Tools"
+        ],
+        "Industrial Supplies": [
+            "Safety & Security",
+            "Material Handling",
+            "Lab Equipment"
+        ]
+    }
+}
